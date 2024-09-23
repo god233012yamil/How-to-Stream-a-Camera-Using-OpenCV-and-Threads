@@ -83,3 +83,10 @@ The main function demonstrates how to use the RTSPCameraStream class to stream t
 
 The video stream will be displayed in a window, and pressing the 'q' key will stop the stream and close the window.
 
+### License
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE License - see the LICENSE file for details.
+
+You can just modify the content to suit your GitHub repository's structure, such as adjusting the installation section based on your package manager or dependencies.
+
+
